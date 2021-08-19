@@ -2,7 +2,7 @@
 - 👀 I’m interested in Analysis, Design and Coding.
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on what I like to do.
-- 📫 How to reach me? : nasimuzzanat@gamil.com
+- 📫 How to reach me?  nasimuzzanat@gamil.com or nasimuzzamant@outlook.com
 
 <!---
 SMNTouhid/SMNTouhid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
