@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SMNTouhid
 - 👀 I’m interested in Analysis, Design and Coding.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on what I like to do.
 - 📫 How to reach me? : nasimuzzanat@gamil.com
 
